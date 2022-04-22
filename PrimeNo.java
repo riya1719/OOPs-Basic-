@@ -31,24 +31,18 @@ public class PrimeNo {
 			 }
 		
 		else 
-			for (int i = 3; i < number/2; i+=2)
+		{
+		for (int i = 3; i < number/2; i+=2)
 		{
 			if (number/i == 0)
 			 flag = false;
 			
 		}
+		}
 		
 		if (flag)
 			System.out.print(number + " is a Prime Number");
-	}
-			
-
-			
-			
-		
-		
-		
-		
+	}	
 		
 	}
 		
