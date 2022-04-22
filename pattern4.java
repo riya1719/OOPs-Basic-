@@ -1,3 +1,11 @@
+/* Pattern Program
+ *  2
+ *  2 4
+ *  2 4 6
+ *  2 4 6 8
+ *  2 4 6 8 10
+ */
+
 package demo;
 
 public class pattern4 {
