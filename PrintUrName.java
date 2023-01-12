@@ -9,7 +9,7 @@ public class Myself {
 		char ch3 = 65 + 24;
 		char ch4 = 65;
 				
-		
+		System.out.print("My name is ");
 		System.out.print(ch1);
 		System.out.print(ch2);
 		System.out.print(ch3);
